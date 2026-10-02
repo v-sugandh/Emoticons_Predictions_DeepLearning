@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow-cpu
+ipykernel
+nltk
+spacy
+scikit-learn
+gensim
+kagglehub
+keras-tuner 
+tensorboard 
+transformers 
+datasets 
+accelerate
